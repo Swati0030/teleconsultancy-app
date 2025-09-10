@@ -1,0 +1,14 @@
+node_modules
+dist
+.DS_Store
+*.log
+*.local
+.env
+.env.*
+.vercel
+.next
+.cache
+coverage
+*.tsbuildinfo
+Thumbs.db
+
